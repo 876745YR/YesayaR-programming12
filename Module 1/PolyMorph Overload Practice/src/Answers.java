@@ -4,8 +4,11 @@ public class Answers {
 
 2.)
     A) output = "ONE"
-    B)
+    B) Class Y
+       Class Y
+       error: "Exception"
 
+3.)
  */
 
 }
