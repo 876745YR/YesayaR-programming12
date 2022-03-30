@@ -29,6 +29,5 @@ public class MainClass{
         Z a = new Z();
         Z z = (Z) y;
         z.calculate(100, 200);
-        a.calculate(1,2);
-    }
+        a.calculate(1,2);    }
 }

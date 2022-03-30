@@ -18,27 +18,6 @@ public class Main {
         System.out.println(X.method( 1.0, 1.0));
     }
 */
-static class X {
-    void method(int a){
-        System.out.println("ONE");
-    }
-    void method(double d){
-        System.out.println("TWO");
-    }
-
- }
- static class Y extends X {
-    @Override
-     void method(double d)
-    {
-        System.out.println("THREE");
-    }
- }
-
- public static void main(String[] args) {
-
-     new Y().method(100);
-}
 
 }
 
