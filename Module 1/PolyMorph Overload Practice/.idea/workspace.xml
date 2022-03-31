@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d074d92-b102-4d61-b4b0-6be6780aa65c" name="Changes" comment="" />
+    <list default="true" id="1d074d92-b102-4d61-b4b0-6be6780aa65c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Recursive lesson/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,8 @@
       <workItem from="1646948167299" duration="601000" />
       <workItem from="1647035270044" duration="925000" />
       <workItem from="1648587076105" duration="3057000" />
-      <workItem from="1648673409557" duration="1568000" />
+      <workItem from="1648673409557" duration="2195000" />
+      <workItem from="1648759889705" duration="2256000" />
     </task>
     <servers />
   </component>
