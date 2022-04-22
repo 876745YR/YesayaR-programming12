@@ -16,7 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -83,7 +82,7 @@
       <workItem from="1648759889705" duration="2257000" />
       <workItem from="1648847256499" duration="596000" />
       <workItem from="1649109489774" duration="366000" />
-      <workItem from="1649191975409" duration="320000" />
+      <workItem from="1649191975409" duration="1031000" />
     </task>
     <servers />
   </component>
