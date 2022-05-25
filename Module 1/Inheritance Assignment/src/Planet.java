@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class Planet {
+public class Planet{
     private int orbitTime;
     private String designation;
     ArrayList<Moon> moons = new ArrayList<Moon>();
@@ -9,15 +9,14 @@ public class Planet {
 
     };
 
-    public Planet(int orbitTime, String designation, ArrayList<Moon> moons) {
-        this.orbitTime = orbitTime;
-        this.designation = designation;
-        this.moons = moons;
-    }
-
     public Planet(int orbitTime, String designation) {
         
     }
+
+    Planet() {
+
+    }
+
 
     public String getDesignation() {
         return designation;
@@ -39,6 +38,9 @@ public class Planet {
         this.moons = moons;
     }
 
+    public void addMoons(Moon){
+        return Moon;
+    }
 
     public ArrayList<Moon> getMoons() {
         return moons;
