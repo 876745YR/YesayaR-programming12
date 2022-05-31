@@ -12,18 +12,22 @@ public class Main {
         public TwoDShape(){
 
         }
-        abstract public double getArea(){
+        public double getArea(){
             return height*width;
         }
         public void setHeight(double height){
 
         }
-        class Circle(){
-            shape = Circle;
+        abstract class Circle {
+
             public final double Pi = 3.14;
             private double radius;
-            Circle(double radius);
-            public double getArea();
+
+            Circle(double radius) {
+
+            }
+
+            public abstract double getArea();
         }
         class Triangle{
             double side1;
