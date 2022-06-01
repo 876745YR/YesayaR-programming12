@@ -19,5 +19,6 @@ public class Triangle extends TwoDShape{
     public double getArea(){
 
         return this.side2*heronsHeight(side1,side2,side3);
+
     }
 }
