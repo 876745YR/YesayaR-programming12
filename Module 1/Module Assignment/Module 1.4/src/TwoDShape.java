@@ -1,7 +1,9 @@
 public abstract class TwoDShape {
     double width;
     double height;
-    public TwoDShape(double width, double height) {
+    Colour colour;
+
+    public TwoDShape(double width, double height, Colour colour) {
 
     }
 

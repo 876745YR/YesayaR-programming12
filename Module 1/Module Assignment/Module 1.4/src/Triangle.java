@@ -2,10 +2,10 @@ public class Triangle extends TwoDShape implements Rotate{
     double side1;
     double side2;
     double side3;
-    public Triangle(double width, double height){
+    public Triangle(double width, double height, Colour color){
 
     }
-    public Triangle(double side1, double side2, double side3){
+    public Triangle(double side1, double side2, double side3, Colour color){
 
     }
     private double heronsHeight(double side1, double side2, double side3){
