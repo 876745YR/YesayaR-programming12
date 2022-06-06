@@ -5,4 +5,8 @@ public class Main {
         ArrayList<String> shapes = new ArrayList<>();
 
     }
+    Triangle triangle = new Triangle(3,4,5,Colour.BLUE){
+
+    }
+
 }
